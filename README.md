@@ -1,6 +1,6 @@
-01: Deleting an element from a specified position of an array 
-02: Inserting a new element to the specified position of an array 
-03: BFS Tree
+01: Deleting an element from a specified position of an array <br>
+02: Inserting a new element to the specified position of an array <br>
+03: BFS Tree<br>
 04: BFS Graph
 05: Binary Tree
 06: Bubble Sort
