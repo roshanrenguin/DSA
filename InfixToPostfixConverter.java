@@ -1,4 +1,4 @@
-
+//With stack ADT
 class InfixToPostfixConverter {
 	
 	public static class Stack {
