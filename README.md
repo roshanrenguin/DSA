@@ -22,5 +22,11 @@
 22: Move last node to front <br>
 23: Postfix Evaluation <br>
 24: Priority Queue  <br>
-25: QueueWithArrayDynamicSize <br>
+25: Queue With Array Dynamic Size <br>
+26: Queue With Array Fixed Size <br>
+27: Quick Sort  <br>
+28: Reverse a String with Stack  <br>
+29: Singly To Circular LinkedList <br>
+30: Sort Numbers <br>
+31: Stack
      
